@@ -1,0 +1,93 @@
+
+            Question 1: What is a variable in Python?
+            Options : 
+                A. A named space to store data
+                B. A value that can change
+                C. A function that returns a value
+                D. A statement that executes code
+            Correct Answer : A named space to store data
+            
+
+            
+            Question 2: What data type is used to store whole numbers in Python?
+            Options : 
+                A. int
+                B. float
+                C. string
+                D. boolean
+            Correct Answer : int
+            
+
+            
+            Question 3: Which keyword is used to define a function in Python?
+            Options : 
+                A. def
+                B. for
+                C. if
+                D. while
+            Correct Answer : def
+            
+
+            
+            Question 4: What is the purpose of the `print` function in Python?
+            Options : 
+                A. To display output on the console
+                B. To read input from the user
+                C. To store data in a variable
+                D. To execute a block of code
+            Correct Answer : To display output on the console
+            
+
+            
+            Question 5: What does the following Python code do? 
+`x = [1, 2, 3]
+print(max(x))`
+            Options : 
+                A. Prints the largest element in the list `x`
+                B. Prints the sum of the elements in the list `x`
+                C. Creates a new list called `max` containing the elements of `x`
+                D. Sorts the list `x` in ascending order
+            Correct Answer : Prints the largest element in the list `x`
+            
+
+            
+            Question 6: What is the correct syntax to create a dictionary in Python?
+            Options : 
+                A. {key1: value1, key2: value2}
+                B. [key1: value1, key2: value2]
+                C. (key1: value1, key2: value2)
+                D. dict(key1=value1, key2=value2)
+            Correct Answer : {key1: value1, key2: value2}
+            
+
+            
+            Question 7: What does the `in` operator do in Python?
+            Options : 
+                A. Checks if a value exists in a sequence
+                B. Compares two values for equality
+                C. Joins two strings together
+                D. Multiplies two numbers
+            Correct Answer : Checks if a value exists in a sequence
+            
+
+            
+            Question 8: What is a Python module?
+            Options : 
+                A. A file containing reusable Python code
+                B. A data structure used to organize data
+                C. A function that performs a specific task
+                D. A statement that controls the flow of a program
+            Correct Answer : A file containing reusable Python code
+            
+
+            
+            Question 9: Which of the following is a valid data type in Python?
+            Options : 
+                A. list
+                B. array
+                C. set
+                D. All of the above
+            Correct Answer : All of the above
+            
+
+            

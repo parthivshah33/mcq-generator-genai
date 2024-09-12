@@ -1,0 +1,9 @@
+openai
+langchain
+python-dotenv
+PyPDF2
+streamlit
+langchain_google_genai
+SQLAlchemy
+
+-e .
